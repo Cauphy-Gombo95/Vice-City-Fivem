@@ -7,4 +7,4 @@ Anglais :
 -Add "miami" in your ressource file
 -Choise a minimap in the file "[MINIMAP]"
 -Drag the files of the minimap in the "miami" file
--Enjoy the Mods :) !
+-Enjoy th du mod ;)
